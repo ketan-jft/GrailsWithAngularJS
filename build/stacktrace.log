@@ -1,0 +1,2 @@
+ERROR grails.boot.config.tools.ClassPathScanner - The application defines a Groovy source using the default package. Please move all Groovy sources into a package.
+ERROR grails.boot.config.tools.ClassPathScanner - The application defines a Groovy source using the default package. Please move all Groovy sources into a package.
